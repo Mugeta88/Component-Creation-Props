@@ -1,5 +1,5 @@
 import React from 'react';
-import { AlertBoxProps } from '../../types';
+import type { AlertBoxProps } from '../../types/index';
 
 export const AlertBox: React.FC<AlertBoxProps> = ({
   type,
