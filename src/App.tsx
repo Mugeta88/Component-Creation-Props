@@ -6,19 +6,19 @@ import avatar from './assets/user.png';
 
 const user = {
   id: '1',
-  name: 'John Doe',
-  email: 'john@example.com',
-  role: 'Engineer',
+  name: 'Mark Winters',
+  email: 'MWinters@gmail.com',
+  role: 'Data Scientist',
   avatarUrl: avatar,
 };
 
 const product = {
   id: 'p1',
-  name: 'Wireless Headphones',
+  name: 'VIZIO 43” Class Full HD 1080p LED Smart TV (VFD43M-08)',
   price: 149.99,
-  description: 'Great sound and battery life.',
+  description: 'Full HD resolution offers enhanced clarity, richer contrast, and true-to-life color through Full Array LED Backlight and Active Pixel Tuning.',
   inStock: true,
-  imageUrl: 'https://via.placeholder.com/600x400',
+  imageUrl: 'https://i5.walmartimages.com/seo/VIZIO-43-Class-Full-HD-1080p-LED-Smart-TV-New-VFD43M-0804_c28f7f61-474f-4c5c-aae3-c44e70527636.e5799a314cdc1423a21064eca5509a6d.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF',
 };
 
 function App() {
